@@ -1,6 +1,7 @@
 ## A bot for players of MapleRoyals!
 
 **This bot was created in early 2019, so some features may be outdated.**
+**Edit:** A few changes have been made as of August 17, 2021.
 
 [Github Profile] - (https://github.com/hariocoffee)
 

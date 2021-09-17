@@ -1,0 +1,18 @@
+{
+  "name": "gamebot",
+  "version": "1.0.0",
+  "description": "This is a bot created by hariocoffee that optimizes gameplay performance so that every member within the community has a resource to do so. Whether you're looking for skill builds, item optimization, skill optimization, leveling guides, or hp washing...this bot provides it all.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hariocoffee",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  },
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-plugin-react": "^7.13.0"
+  }
+}
